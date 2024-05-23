@@ -29,12 +29,14 @@
 
 ​	创建bert_model文件夹，在hugging-face上下载bert-base-chinese、chinese-bert-wwm-ext、minirbt-h256三个预训练模型存入bert_model文件夹，其中config.json、pytorch_model.bin、vocab.txt必备。
 
-![image-20240523221751752](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20240523221751752.png)
+![image](https://github.com/paipaix1/FakeNews_Detection/assets/156734592/c6df479a-35f9-4f9f-b2cc-fc4a42f0a936)
+
 
 **2.下载推文和图片数据集**
 
 ​	在data文件夹下创建tweets和images数据集，下载地址：https://drive.google.com/drive/folders/1SYHLEMwC8kCibzUYjOqiLUeFmP2a19CH?usp=sharing
 
-![image-20240523222103382](C:\Users\LEGION\AppData\Roaming\Typora\typora-user-images\image-20240523222103382.png)
+![image](https://github.com/paipaix1/FakeNews_Detection/assets/156734592/208b82da-e29c-48bc-95fe-6bed2b7c7b50)
+
 
 **3.自定义配置文件**
